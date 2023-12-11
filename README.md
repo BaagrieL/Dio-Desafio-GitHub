@@ -1,6 +1,5 @@
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github)
-
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://github.com/BaagrieL)
 # Desafio usando Git e GitHub
 
 Um projeto para pôr em prática os conhecimentos de Git e GitHub adquiridos no curso da Dio
